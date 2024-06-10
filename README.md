@@ -13,5 +13,8 @@ This project implements a simple blockchain and cryptocurrency using Node.js and
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/username/repo.git
-   cd repo
+   git clone https://github.com/TotalngArc/Blockchain/.git
+   cd blockchain
+
+```sh
+npm install
