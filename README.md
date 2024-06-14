@@ -18,3 +18,14 @@ This project implements a simple blockchain and cryptocurrency using Node.js and
 
 ```sh
 npm install
+
+```sh
+node index.js
+
+
+js
+const agp = new Wallet();
+const jz = new Wallet();
+const jb = new Wallet();
+
+
